@@ -1,4 +1,4 @@
-name: License Generator
+name: Build
 
 on:
   pull_request:
